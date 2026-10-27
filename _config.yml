@@ -1,11 +1,11 @@
-title: "EcoNIbe"
-description: "Ecological Niche Modelling in Iberia research group"
+title: "CarNiche"
+description: "Carnivore ecological Niche modelling research group"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: "default"
 url: "https://alezarzo.github.io"
-baseurl: "/econibe.github.io/"
+baseurl: "/carniche.github.io/"
 defaults:
   - scope:
       path: ""
