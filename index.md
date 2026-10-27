@@ -26,7 +26,7 @@ classes: wide
 </style>
 
 <p align="left">
-<img src="{{ '/assets/images/Prueba2.jpg' | relative_url }}" width="600">
+<img src="{{ '/assets/images/CarNiche.jpg' | relative_url }}" width="600">
 </p>
 
 I am a "La Caixa" Junior Leader Postdoc in the Integrative Wildlife Ecology and Conservation (InWild) group at the Center for Ecology, Evolution and Environmental Changes in Lisbon University, Portugal. My research focuses on testing, improving and applying Species Distribution Models (SDMs) to many species at different spatial scales. 
@@ -44,7 +44,7 @@ In my research group, we explore the effect on species’ distributions of preda
 
 
 - ## Explore the site
-- [People](/econibe.github.io/people)
-- [Projects](/econibe.github.io/projects)
-- [Publications](/econibe.github.io/publications)
-- [Activities](/econibe.github.io/activities)
+- [People](/carniche.github.io/people)
+- [Projects](/carniche.github.io/projects)
+- [Publications](/carniche.github.io/publications)
+- [Activities](/carniche.github.io/activities)
