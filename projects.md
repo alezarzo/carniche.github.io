@@ -82,9 +82,6 @@ Principal Investigators (PIs): Hugo Díez Santaolalla & Vasco Valdez
 <img src="/carniche.github.io/assets/images/Equipo2.jpeg"
      alt="Equipo2"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
-<img src="/carniche.github.io/assets/images/MostelaCasanova.jpeg"
-     alt="MostelaCasanova"
-     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
      
 This project aims to investigate the distribution and ecology of carnivores across the Lisbon metropolitan area, including protected areas surrounded by increasingly human-modified landscapes. By improving our understanding of where these species occur and how they respond to environmental and human pressures, the project seeks to support evidence-based conservation and the long-term protection of native biodiversity.
