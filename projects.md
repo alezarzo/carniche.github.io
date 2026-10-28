@@ -29,7 +29,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
 
 <a id="iberenv"> IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
-<img src="/econibe.github.io/assets/images/Variables.jpg"
+<img src="/carniche.github.io.github.io/assets/images/Variables.jpg"
      alt="IBERENV environmental variables"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
      
@@ -46,7 +46,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 
 <a id="camera-trap-monitoring-of-the-stoat"> Camera trap monitoring of the stoat (Mustela erminea)
 
-<img src="/econibe.github.io/assets/images/Mostela1.jpeg"
+<img src="/carniche.github.io.github.io/assets/images/Mostela1.jpeg"
      alt="Mostela camera trap"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
@@ -68,7 +68,7 @@ Development of reproducible pipelines for biodiversity prediction.
 - Model benchmarking
 
 
-<img src="/econibe.github.io/assets/images/StoatSDM.jpg"
+<img src="/carniche.github.io.github.io/assets/images/StoatSDM.jpg"
      alt="Stoat graph"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
@@ -79,10 +79,10 @@ Development of reproducible pipelines for biodiversity prediction.
 
 Principal Investigators (PIs): Hugo Díez Santaolalla & Vasco Valdez
 
-<img src="/econibe.github.io/assets/images/Equipo2.jpeg"
+<img src="/carniche.github.io.github.io/assets/images/Equipo2.jpeg"
      alt="Equipo2"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
-<img src="/econibe.github.io/assets/images/MostelaCasanova.jpeg"
+<img src="/carniche.github.io.github.io/assets/images/MostelaCasanova.jpeg"
      alt="MostelaCasanova"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
