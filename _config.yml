@@ -15,4 +15,4 @@ defaults:
       layout: single
 head:
   - '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">'
-   - '<style>.masthead__inner-wrap .site-logo img, .masthead .site-logo img, .masthead a img { height: 70px !important; width: 70px !important; max-height: 70px !important; max-width: 70px !important; object-fit: contain !important; }</style>'
+  - '<style>.masthead .site-logo img { height: 70px !important; width: auto !important; }</style>'
