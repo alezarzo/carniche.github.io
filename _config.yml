@@ -4,6 +4,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: "default"
+logo: "/assets/images/CarNiche.jpg"
 url: "https://alezarzo.github.io"
 baseurl: "/carniche.github.io/"
 defaults:
@@ -14,4 +15,3 @@ defaults:
       layout: single
 head:
   - '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">'
-  - '<style>.masthead .site-title a { display: inline-flex; align-items: center; gap: 10px; } .masthead .site-title a::before { content: ""; display: inline-block; width: 38px; height: 38px; flex-shrink: 0; background-image: url("/carniche.github.io/assets/images/CarNiche.jpg"); background-size: contain; background-repeat: no-repeat; background-position: center; }</style>'
