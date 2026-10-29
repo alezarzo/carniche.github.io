@@ -10,7 +10,7 @@ header:
 classes: wide
 ---
 
-### EcoNIb team
+### CarNiche team
 
 # Group leader
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
