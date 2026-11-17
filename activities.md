@@ -27,7 +27,7 @@ More info at <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introducti
 # <a href=" https://bialowiezaecologyconference.org/" target="_blank" rel="noopener noreferrer">  36th European Mustelid Colloquium </a> in Białowieża, Poland
 
 <img src="/carniche.github.io/assets/images/MustelidPoland1.jpg"
-     alt="Oct26_CursoSDM"
+     alt="Ale_Poland"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
      
 We attended the 36th European Mustelid Colloquium in Białowieża, a small remote town in Poland, where we talked about interactions in SDMs and stoat's diet. 
@@ -35,7 +35,7 @@ We finally met the <a href=" https://europeanweaselgang.eu//" target="_blank" re
 And Hugo won the second best poster presentation!
 
 <img src="/carniche.github.io/assets/images/HugoPoland.jpg"
-     alt="Oct26_CursoSDM"
+     alt="Hugo_Poland"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
 
 
