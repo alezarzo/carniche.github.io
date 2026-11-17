@@ -14,13 +14,12 @@ classes: wide
 
 
 ## Accepted
-- Mallo Robla, M., **Zarzo-Arias, A.**, Russo, L. F., Delgado, M. M., Benjumea, R., González-Bernardo, E., Torres-Romero, E. J., de la Riva, I., Delibes, M., Alonso, D. & Penteriani, V. (2026). Behaviour of the Eurasian otter (lutra lutra) at latrine sites along a gradient of human pressure: an ethological approach. Journal of Ethology.
-
 
 ## 2026
 
 
 ## 2025
+- Mallo Robla, M., **Zarzo-Arias, A.**, Russo, L. F., Delgado, M. M., Benjumea, R., González-Bernardo, E., Torres-Romero, E. J., de la Riva, I., Delibes, M., Alonso, D. & Penteriani, V. (2026). Behaviour of the Eurasian otter (lutra lutra) at latrine sites along a gradient of human pressure: an ethological approach. Journal of Ethology, 1-16. [10.1007/s10164-026-00903-w](https://doi.org/10.1007/s10164-026-00903-w)
 
 - **Zarzo-Arias, A.**, Heeres, R. W., Hertel, A. G., Leclerc, M., Frank, S. C., Steyaert, S. M. J. G., Kindberg, J., Swenson, J. E., Penteriani, V., Pelletier, F. & Zedrosser, A.(2025). The landscape of love” – sex-specific habitat-use during the mating season in a solitary large carnivore. Landscape Ecology, 40:222. DOI: [10.1007/s10980-025-02250-6](https://doi.org/10.1007/s10980-025-02250-6)
 
