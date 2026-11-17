@@ -31,7 +31,7 @@ More info at <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introducti
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
      
 We attended the 36th European Mustelid Colloquium in Białowieża, a small remote town in Poland, where we talked about interactions in SDMs and stoat's diet. 
-We finally met the <a href=" https://bialowiezaecologyconference.org/" target="_blank" rel="noopener noreferrer"> Weasel Gang  </a> now that we are part of it and discussed upcoming topics to focus on regarding weseals and stoats.  
+We finally met the <a href=" https://europeanweaselgang.eu//" target="_blank" rel="noopener noreferrer"> Weasel Gang  </a> now that we are part of it and discussed upcoming topics to focus on regarding weseals and stoats.  
 And Hugo won the second best poster presentation!
 
 <img src="/carniche.github.io/assets/images/HugoPoland.jpg"
