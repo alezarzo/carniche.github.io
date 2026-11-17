@@ -76,6 +76,13 @@ classes: wide
 # External collaborators
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
   
+    <div style="width:150px; text-align:center;">
+    <img src="{{ '/assets/images/Hector.jpg' | relative_url }}"
+         style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+    <p><b>Héctor Ruiz Villar</b><br>
+      <span style="font-size:0.8em; color:gray;">Universidad de León</span></p>
+  </div>
+  
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Ruben.jpg' | relative_url }}"
          style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
