@@ -16,10 +16,10 @@ Estamos recopilando registros para mejorar el conocimiento sobre la distribució
 
 <img src="/carniche.github.io/assets/images/Armiño1.jpeg"
      alt="Armiño"
-     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px 0;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
 <img src="/carniche.github.io/assets/images/Armiño2.jpeg"
      alt="Armiño2"
-     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px 0;">     
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">     
 
 *Fotos de Héctor Ruiz Villar*
 
@@ -45,7 +45,7 @@ Mándanos tu información a [alejandra.zarzo@gmail.com](mailto:alejandra.zarzo@g
 
 <img src="/carniche.github.io/assets/images/Oct26_CursoSDM.png"
      alt="Oct26_CursoSDM"
-     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px 0;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
 
 Species Distribution Models (SDMs) have become essential tools for understanding species–environment relationships and predicting species distributions across space and time. By integrating species occurrence data with environmental predictors, SDMs allow researchers to identify suitable habitats, assess limiting factors, and forecast potential distribution changes under environmental and anthropogenic pressures. This practical introductory course aims to provide participants with the basic foundations and technical skills required to develop, evaluate, and interpret SDMs for ecological research and conservation applications.
 
@@ -53,7 +53,7 @@ More info at <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introducti
 
 <img src="/carniche.github.io/assets/images/SDMs_class.jpeg"
      alt="SDMs_class"
-     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px 0;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
 
 ---
      
@@ -61,7 +61,7 @@ More info at <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introducti
 
 <img src="/carniche.github.io/assets/images/MustelidPoland1.jpg"
      alt="Ale_Poland"
-     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px 0;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
      
 We attended the 36th European Mustelid Colloquium in Białowieża, a small remote town in Poland, where we talked about interactions in SDMs and stoat's diet. 
 We finally met the <a href=" https://europeanweaselgang.eu//" target="_blank" rel="noopener noreferrer"> Weasel Gang  </a> now that we are part of it and discussed upcoming topics to focus on regarding weseals and stoats.  
@@ -69,6 +69,6 @@ And Hugo won the second best poster presentation!
 
 <img src="/carniche.github.io/assets/images/HugoPoland.jpg"
      alt="Hugo_Poland"
-     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px 0;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
 
 
