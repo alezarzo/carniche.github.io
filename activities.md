@@ -16,7 +16,7 @@ Estamos recopilando registros para mejorar el conocimiento sobre la distribució
 
 <img src="/carniche.github.io/assets/images/Armiño1.jpeg"
      alt="Armiño"
-     style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px;display: block; margin: 20px 0;">
 <img src="/carniche.github.io/assets/images/Armiño2.jpeg"
      alt="Armiño2"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">     
