@@ -10,7 +10,7 @@ classes: wide
 ---
 # ¡Buscamos armiños en la Península Ibérica!
 
-¿Has visto un armiño (Mustela erminea)? ¡Queremos conocer tu observación!
+¿Has visto un armiño (*Mustela erminea*)? ¡Queremos conocer tu observación!
 
 <img src="/carniche.github.io/assets/images/Armiño.jpg"
      alt="Armiño"
@@ -19,11 +19,11 @@ classes: wide
 Estamos recopilando registros para mejorar el conocimiento sobre la distribución de esta especie en la Península Ibérica.
 Cualquier información es bienvenida, especialmente:
 
-# Localización: coordenadas geográficas (latitud y longitud).
-# Fecha: cuándo tuvo lugar la observación.
-# Fotografías: si es posible, para confirmar la identificación y diferenciarlo de la comadreja (Mustela nivalis).
+**Localización**: coordenadas geográficas (latitud y longitud).
+**Fecha**: cuándo tuvo lugar la observación.
+**Fotografías**: si es posible, para confirmar la identificación y diferenciarlo de la comadreja (*Mustela nivalis*).
 
-También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable.
+También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable. Recuerda, los armiños con su pelaje de verano tienen la punta de la cola negra y son algo más grandes que las comadrejas.
 
 Mándanos tu información a alejandra.zarzo@gmail.com o rellena este formulario: 
 
