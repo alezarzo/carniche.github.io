@@ -27,7 +27,7 @@ Cualquier información es bienvenida, especialmente:
 
 También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable. Recuerda, los armiños con su pelaje de verano tienen la punta de la cola negra y son algo más grandes que las comadrejas.
 
-Mándanos tu información a alejandra.zarzo@gmail.com o rellena este formulario: 
+Mándanos tu información a [alejandra.zarzo@gmail.com](mailto:alejandra.zarzo@gmail.com) o rellena este formulario: 
 
 ¡Comparte tu observación y ayúdanos a conocer mejor al armiño!
 
