@@ -15,7 +15,10 @@ classes: wide
 <img src="/carniche.github.io/assets/images/Armiño.jpg"
      alt="Armiño"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
-     
+<img src="/carniche.github.io/assets/images/Armiño2.jpg"
+     alt="Armiño2"
+     style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">     
+
 Estamos recopilando registros para mejorar el conocimiento sobre la distribución de esta especie en la Península Ibérica.
 Cualquier información es bienvenida, especialmente:
 
