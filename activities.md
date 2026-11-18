@@ -10,7 +10,7 @@ classes: wide
 ---
 # ¡Buscamos armiños en la Península Ibérica!
 
-¿Has visto un armiño (*Mustela erminea*)? ¡Queremos conocer tu observación!
+¿Has visto un **armiño** (*Mustela erminea*)? ¡Queremos conocer tu observación!
 
 <img src="/carniche.github.io/assets/images/Armiño.jpg"
      alt="Armiño"
