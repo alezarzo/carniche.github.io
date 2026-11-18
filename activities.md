@@ -12,10 +12,10 @@ classes: wide
 
 ¿Has visto un **armiño** (*Mustela erminea*)? ¡Queremos conocer tu observación!
 
-<img src="/carniche.github.io/assets/images/Armiño.jpg"
+<img src="/carniche.github.io/assets/images/Armiño.jpeg"
      alt="Armiño"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
-<img src="/carniche.github.io/assets/images/Armiño2.jpg"
+<img src="/carniche.github.io/assets/images/Armiño2.jpeg"
      alt="Armiño2"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">     
 
