@@ -21,7 +21,7 @@ Estamos recopilando registros para mejorar el conocimiento sobre la distribució
      alt="Armiño2"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">     
 
-Recuerda, los armiños con su pelaje de verano tienen la punta de la cola negra y son algo más grandes que las comadrejas.
+Recuerda, los armiños con su pelaje de verano tienen la punta de la cola negra y son algo más grandes que las comadrejas. En invierno siempre son blancos. 
 
 Cualquier información es bienvenida, especialmente:
 
