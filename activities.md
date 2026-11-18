@@ -20,7 +20,9 @@ Estamos recopilando registros para mejorar el conocimiento sobre la distribució
 Cualquier información es bienvenida, especialmente:
 
 **Localización**: coordenadas geográficas (latitud y longitud).
+
 **Fecha**: cuándo tuvo lugar la observación.
+
 **Fotografías**: si es posible, para confirmar la identificación y diferenciarlo de la comadreja (*Mustela nivalis*).
 
 También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable. Recuerda, los armiños con su pelaje de verano tienen la punta de la cola negra y son algo más grandes que las comadrejas.
