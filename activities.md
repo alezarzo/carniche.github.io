@@ -32,6 +32,7 @@ Mándanos tu información a [alejandra.zarzo@gmail.com](mailto:alejandra.zarzo@g
 ¡Comparte tu observación y ayúdanos a conocer mejor al armiño!
 
 
+
 # Course <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introduction-to-basic-species-distribution-models-2026-2027" target="_blank" rel="noopener noreferrer"> Introduction to basic Species Distribution Models </a>
 
 <img src="/carniche.github.io/assets/images/Oct26_CursoSDM.png"
@@ -45,6 +46,7 @@ More info at <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introducti
 <img src="/carniche.github.io/assets/images/SDMs_class.jpeg"
      alt="SDMs_class"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
+
 
      
 # <a href=" https://bialowiezaecologyconference.org/" target="_blank" rel="noopener noreferrer">  36th European Mustelid Colloquium </a> in Białowieża, Poland
