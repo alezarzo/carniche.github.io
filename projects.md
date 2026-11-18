@@ -48,7 +48,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 
 <img src="/carniche.github.io/assets/images/Mostela1.jpeg"
      alt="Mostela camera trap"
-     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
 
      
 Wildlife monitoring using Mostela camera trap networks to study and update the distribution and knowledge of the stoat. We will focus on:
@@ -81,7 +81,7 @@ Principal Investigators (PIs): Hugo Díez Santaolalla & Vasco Valdez
 
 <img src="/carniche.github.io/assets/images/Equipo2.jpeg"
      alt="Equipo2"
-     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
+     style="width: 100%; max-width: 600px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
 <video
   autoplay
   muted
