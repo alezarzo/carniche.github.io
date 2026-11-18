@@ -8,16 +8,15 @@ header:
   caption: ""
 classes: wide
 ---
-# ¡Buscamos armiños en la península ibérica!
+# ¡Buscamos armiños en la Península Ibérica!
 
 ¿Has visto un armiño (Mustela erminea)? ¡Queremos conocer tu observación!
 
 <img src="/carniche.github.io/assets/images/Armiño.jpg"
-     alt="Oct26_CursoSDM"
+     alt="Armiño"
      style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
      
 Estamos recopilando registros para mejorar el conocimiento sobre la distribución de esta especie en la Península Ibérica.
-
 Cualquier información es bienvenida, especialmente:
 
 # Localización: coordenadas geográficas (latitud y longitud).
@@ -25,6 +24,8 @@ Cualquier información es bienvenida, especialmente:
 # Fotografías: si es posible, para confirmar la identificación y diferenciarlo de la comadreja (Mustela nivalis).
 
 También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable.
+
+Mándanos tu información a alejandra.zarzo@gmail.com o rellena este formulario: 
 
 ¡Comparte tu observación y ayúdanos a conocer mejor al armiño!
 
