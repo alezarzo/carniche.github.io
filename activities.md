@@ -8,8 +8,28 @@ header:
   caption: ""
 classes: wide
 ---
+# ¡Buscamos armiños en la península ibérica!
 
-# Course <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introduction-to-basic-species-distribution-models-2026-2027"        target="_blank" rel="noopener noreferrer"> Introduction to basic Species Distribution Models </a>
+¿Has visto un armiño (Mustela erminea)? ¡Queremos conocer tu observación!
+
+<img src="/carniche.github.io/assets/images/Armiño.jpg"
+     alt="Oct26_CursoSDM"
+     style="width: 100%; max-width: 600px; display: block; margin: 20px 0;">
+     
+Estamos recopilando registros para mejorar el conocimiento sobre la distribución de esta especie en la Península Ibérica.
+
+Cualquier información es bienvenida, especialmente:
+
+# Localización: coordenadas geográficas (latitud y longitud).
+# Fecha: cuándo tuvo lugar la observación.
+# Fotografías: si es posible, para confirmar la identificación y diferenciarlo de la comadreja (Mustela nivalis).
+
+También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable.
+
+¡Comparte tu observación y ayúdanos a conocer mejor al armiño!
+
+
+# Course <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introduction-to-basic-species-distribution-models-2026-2027" target="_blank" rel="noopener noreferrer"> Introduction to basic Species Distribution Models </a>
 
 <img src="/carniche.github.io/assets/images/Oct26_CursoSDM.png"
      alt="Oct26_CursoSDM"
