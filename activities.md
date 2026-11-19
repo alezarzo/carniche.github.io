@@ -19,9 +19,7 @@ El armiño es uno de los pequeños carnívoros más esquivos de nuestra fauna y 
 
 <img src="/carniche.github.io/assets/images/Armiños.jpg"
      alt="Armiño"
-     style="width: 100%; max-width: 600px;display: block; margin: 20px auto;">
-
-*Fotos de Héctor Ruiz Villar*
+     style="width: 100%; max-width: 700px;display: block; margin: 20px auto;">
 
 
 Cualquier información es bienvenida, especialmente:
