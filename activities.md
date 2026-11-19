@@ -28,7 +28,7 @@ Cualquier información es bienvenida, especialmente:
 
 **Fecha**: cuándo tuvo lugar la observación.
 
-**Fotografías**: siempre que sea posible, nos ayudarán a confirmar la identificación y diferenciarlo de otras especies similares, especialmente la comadreja.
+**Fotografías o vídeos**: siempre que sea posible, nos ayudarán a confirmar la identificación y diferenciarlo de otras especies similares, especialmente la comadreja.
 
 También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable. Si tu dato ya está disponible en GBIF o iNaturalist, no hace falta que nos lo reenvíes.
 
