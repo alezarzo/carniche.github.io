@@ -10,31 +10,33 @@ classes: wide
 ---
 # ¡Buscamos armiños en la Península Ibérica!
 
-¿Has visto un **armiño** (*Mustela erminea*)? ¡Queremos conocer tu observación!
+¿Has visto alguna vez un **armiño** (*Mustela erminea*)? ¡Queremos saberlo!
 
 Estamos recopilando registros para mejorar el conocimiento sobre la distribución de esta especie en la Península Ibérica.
 
+El armiño es uno de los pequeños carnívoros más esquivos de nuestra fauna y todavía sabemos relativamente poco sobre su distribución en la Península Ibérica. Tiene un cuerpo alargado, es algo más grande que la comadreja (*Mustela nivalis*) y presenta una característica punta negra en la cola, que conserva durante todo el año. Su pelaje suele ser marrón con el vientre blanco en verano y totalmente blanco durante el invierno. 
+
+
 <img src="/carniche.github.io/assets/images/Armiños.jpg"
      alt="Armiño"
-     style="width: 100%; max-width: 400px; object-fit: cover; border-radius: 15px; display: block; margin: 20px auto;">
+     style="width: 100%; max-width: 600px;display: block; margin: 20px auto;">
 
 *Fotos de Héctor Ruiz Villar*
 
-Recuerda, los armiños con su pelaje de verano tienen la punta de la cola negra y son algo más grandes que las comadrejas. En invierno siempre son blancos. 
 
 Cualquier información es bienvenida, especialmente:
-
-**Localización**: coordenadas geográficas (latitud y longitud).
+ 
+**Localización**: coordenadas geográficas (latitud y longitud) o una ubicación lo más precisa posible (puede ser también un enlace de Google Maps). 
 
 **Fecha**: cuándo tuvo lugar la observación.
 
-**Fotografías**: si es posible, para confirmar la identificación y diferenciarlo de la comadreja (*Mustela nivalis*).
+**Fotografías**: siempre que sea posible, nos ayudarán a confirmar la identificación y diferenciarlo de otras especies similares, especialmente la comadreja.
 
 También aceptamos observaciones antiguas y registros sin fotografías, siempre que la identificación sea fiable. Si tu dato ya está disponible en GBIF o iNaturalist, no hace falta que nos lo reenvíes.
 
-Mándanos tu información a [alejandra.zarzo@gmail.com](mailto:alejandra.zarzo@gmail.com) o rellena este formulario: 
+Mándanos tu información a [hugodiezsantaolalla@gmail.com](mailto:hugodiezsantaolalla@gmail.com).
 
-¡Comparte tu observación y ayúdanos a conocer mejor al armiño!
+¡Cada observación cuenta! Ayúdanos a descubrir dónde se esconde el armiño y a conocer mejor su situación en la Península Ibérica.
 
 <hr style="margin: 80px 0;">
 
