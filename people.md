@@ -10,9 +10,9 @@ header:
 classes: wide
 ---
 
-### CarNiche team
+# CarNiche team
 
-# Group leader
+## Group leader
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
 
   <div style="width:200px; text-align:center;">
@@ -23,7 +23,7 @@ classes: wide
   </div>
 </div>
 
-# Research team 
+## Research team 
   <div style="display:flex; gap:30px; flex-wrap:wrap;">
     
   <div style="width:150px; text-align:center;">
@@ -42,7 +42,7 @@ classes: wide
   
  </div>
  
-# PhD students
+## PhD students
   <div style="display:flex; gap:30px; flex-wrap:wrap;">
   
   <div style="width:150px; text-align:center;">
@@ -61,7 +61,7 @@ classes: wide
   
 </div>
 
-# Master students
+## Master students
   <div style="display:flex; gap:30px; flex-wrap:wrap;">
   
   <div style="width:150px; text-align:center;">
@@ -73,7 +73,7 @@ classes: wide
 
 </div>
 
-# External collaborators
+## External collaborators
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
   
     <div style="width:150px; text-align:center;">
