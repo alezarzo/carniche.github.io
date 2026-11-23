@@ -1,7 +1,5 @@
 title: "CarNiche"
 logo: "/assets/images/Logo.jpg"
-og_image: "/assets/images/Logo.jpg"
-og_image_alt: "CarNiche logo"
 description: "Carnivore ecological Niche modeling research group"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
@@ -15,6 +13,8 @@ defaults:
       type: "pages"
     values:
       layout: single
+      header:
+        og_image: "/assets/images/Logo.jpg"
 head:
   - '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">'
   - '<style>.masthead .site-logo img { height: 70px !important; width: auto !important; }</style>'
