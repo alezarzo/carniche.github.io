@@ -20,4 +20,4 @@ defaults:
 head:
   - '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">'
   - '<style>.masthead .site-logo img { height: 70px !important; width: auto !important; }</style>'
-  - '<style>.page__content, .page__content p, .page__content li { text-align: justify !important; }</style>'
+  - '<style>body { text-align: justify !important; } .page__content, .page__content p, .page__content li, .archive__item-excerpt { text-align: justify !important; }</style>'
