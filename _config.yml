@@ -1,7 +1,6 @@
 title: "CarNiche"
 logo: "/assets/images/Logo.jpg"
 og_image: "/assets/images/Logo.jpg"
-og_image_alt: "CarNiche - Carnivore ecological Niche modeling research group"
 description: "Carnivore ecological Niche modeling research group"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
